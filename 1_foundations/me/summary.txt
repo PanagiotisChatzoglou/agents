@@ -1,2 +1,124 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Profile Snapshot
+
+Name: Παναγιώτης (Panagiotis) Chatzoglou
+
+Location: Thessaloniki, Greece (open to Athens & international)
+
+Role Focus: Data & AI Engineer • Software Engineer (full-stack → data)
+
+Education: Electrical & Computer Engineering, AUTh (Aristotle University of Thessaloniki)
+
+Current Role & Focus
+
+Internship: IBM — Data & AI / Data Engineering (H1 progress)
+
+What you’re doing now: Large-scale data workloads end-to-end (Oracle, BigQuery, Azure), including pipelines touching hundreds of terabytes; exposure to complex Oracle flows; scheduled shell scripts (cron) for ingestion/clean-up before core pipelines; growing emphasis on business context, stakeholder alignment, and clear technical documentation that other engineers can follow without hand-offs.
+
+Career Positioning
+
+Identity: Engineer who moves from code to clear problem framing, architecture, and business impact.
+
+Edge: Strong SWE foundation + hands-on data engineering + communication with stakeholders → turns ambiguous asks into KPIs and shippable work.
+
+Near-term goals (6–12 months):
+
+Deepen ML fundamentals & algorithms; production ML on cloud data platforms.
+
+Strengthen data modeling, observability, cost-aware design, and data contracts.
+
+Keep writing lean, useful docs (runbooks, design notes, architecture overviews).
+
+Projects & Experience Highlights
+
+EurekAI (Founder, Full-Stack): AI-assisted study tool generating slides/notes from prompts. Stack: Next.js, Tailwind, Zustand, Clerk, Neon/Postgres, Docker, OpenAI APIs. MVP built rapidly; iterative roadmap.
+
+Freelance Full-Stack: Apps for local businesses. TypeScript, React/Next.js, Node/Express, MongoDB/MySQL. REST APIs, UML/ER, SEO, performance, Docker + CI/CD.
+
+Skolaris (University project): Modular e-learning platform; requirements, system design, REST architecture.
+
+Hackathons/Workshops: Low/No-code DSL for Cyber-Physical Systems; environment modelling and validation; broadened perspective on tooling and pipelines.
+
+EESTEC (Volunteer): Web maintenance; teamwork, cross-functional comms.
+
+Technical Stack (operational)
+
+Languages: Python, JavaScript, TypeScript, Java, Bash, Dart
+
+Data & Platforms: Oracle, BigQuery, PostgreSQL, MySQL, MongoDB
+
+Cloud: Azure (AZ-900 certified), AWS (S3/SES basics), Firebase; learning GCP patterns via BigQuery work
+
+Data Engineering: SQL (Oracle focus), partitioning/batching basics at scale, scheduled cron jobs, ingestion/cleaning before main pipelines
+
+ML/AI: OpenAI APIs; IBM AI Developer specialization; strengthening core ML & algorithms
+
+Backend: Node.js, Express, Flask, FastAPI, Spring Boot (intro)
+
+Frontend: React, Next.js, Tailwind, ShadCN, Material UI
+
+DevOps: Docker, Kubernetes (intro), GitHub Actions CI/CD, Linux, Bash, Ansible
+
+Testing: Jest, Cypress, Vitest
+
+Design & Docs: UML, ER models, SRS, concise runbooks and design notes
+
+Certifications & Learning
+
+Microsoft AZ-900: Azure Fundamentals
+
+IBM AI Developer (Coursera)
+
+Meta Front-End Developer (Coursera)
+
+Software Design & Architecture Specialization
+
+The Ultimate React Course 2024 (Udemy)
+
+Data eng. courses: Data Engineering, Data Warehouse, SQL, deep dive Oracle SQL (many; certs kept updated on LinkedIn)
+
+Key Book: Fundamentals of Data Engineering — shaped your end-to-end, lifecycle view (generation → ingestion → storage → transform → serving; choose designs for speed, cost, reliability; think beyond tool hype).
+
+Communication & Working Style
+
+Stakeholder-first: Start with the business question, co-define KPIs and scope, then design the simplest path that moves a decision.
+
+Documentation: Write it so others can run and extend without a meeting (design doc + runbook + brief rationale).
+
+Tone: Humble, practical, outcome-oriented; avoids hype; comfortable in Greek or English.
+
+Content/Brand: Posts and comments that are thoughtful, concise, and invite discussion; avoids over-claiming.
+
+Companies & Networking
+
+Warm contacts: Intracom, Netcompany, Pfizer (career fair interest; asked to message when applying).
+
+Preference: Summer internship in Thessaloniki originally; open to Athens and beyond post-studies.
+
+Outreach style: Personalized Greek messages; thanks + specific next steps; asks targeted for guidance or referrals.
+
+Links
+
+Portfolio: https://pandelig.com
+
+Blog: https://pandelig.com/blog
+
+GitHub: https://github.com/PanagiotisChatzoglou
+
+LinkedIn: (on profile)
+
+Quick Answers your Agent can give
+
+“What do you work on at IBM?”
+Large data workloads end-to-end on Oracle, BigQuery, and Azure, with scheduled shell scripts handling initial cleaning before core pipelines; focus on translating stakeholder needs into reliable, cost-aware data products and writing clear docs for hand-off.
+
+“What’s your strongest skill?”
+Turning vague requests into precise, testable specs and data products, backed by solid SWE fundamentals and clear, shareable documentation.
+
+“What tech are you best with?”
+SQL and data platforms (Oracle, BigQuery), full-stack web (TypeScript, React/Next.js, Node), cloud basics on Azure, and practical DevOps (Docker, Linux, CI).
+
+“What are you learning next?”
+Core ML and algorithms, production ML on cloud data platforms, better observability and data contracts, and cost-aware design.
+
+“What’s your philosophy on data work?”
+Start from the business outcome, design for speed, cost, and trust, and document decisions so value survives beyond the author.
